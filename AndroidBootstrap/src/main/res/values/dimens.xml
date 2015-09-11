@@ -9,6 +9,9 @@
     <dimen name="padding_large">16dp</dimen>
 
     <!-- REM units converted to dp using 14sp font as baseline -->
+    <dimen name="bootstrap_base_font_size">14sp</dimen>
+    
+    <!-- Bootstrap Margin -->
 
     <!-- Default button size -->
     <dimen name="bootstrap_button_default_font_size">14sp</dimen>

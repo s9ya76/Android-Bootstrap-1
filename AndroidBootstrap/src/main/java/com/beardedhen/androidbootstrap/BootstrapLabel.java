@@ -78,7 +78,7 @@ public class BootstrapLabel extends AwesomeTextView implements LabelThemeView, R
 
     private void requestStateRefresh() {
         // set bg color etc
-
+        
         int vert = bootstrapHeading.verticalPadding(getContext());
         int hori = bootstrapHeading.horizontalPadding(getContext());
         setPadding(hori, vert, hori, vert);
